@@ -2,6 +2,7 @@
 # MobileAppDevelopmentI
 CSCI 4325 -> TAMU-SA
 
+## Labs
 | Project Name | Screenshots |
 |---|---|
 | [Hello World](https://github.com/jaresinunez/HelloWorld) | <img src='/profile/gifs/HelloWorld.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> |
@@ -9,3 +10,8 @@ CSCI 4325 -> TAMU-SA
 | [Wordle](https://github.com/jaresinunez/Wordle) | <img src='/profile/gifs/wordle.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> |
 | [WishList](https://github.com/jaresinunez/WishList) | <img src='/profile/gifs/wishList.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> |
 | [Flixster](https://github.com/jaresinunez/Flixster) | <img src='/profile/gifs/flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> |
+
+## Projects
+| Project Name | Screenshots |
+|---|---|
+| [Hello World](https://github.com/jaresinunez/HelloWorld) | <img src='/profile/gifs/HelloWorld.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> |
