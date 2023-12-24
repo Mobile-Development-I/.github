@@ -3,7 +3,7 @@
 CSCI 4325 -> TAMU-SA
 
 ## Final Project
-| Booklet     |
+| Booklet     | |
 | ----------- | ----------- |
 | [Booklet](https://github.com/Mobile-App-Dev-23/BookLet.git) | [![Video_demo](http://img.youtube.com/vi/wBuvLRAQRqI/0.jpg)](http://www.youtube.com/watch?v=wBuvLRAQRqI "Booklet App Presentation") |
 
